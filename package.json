@@ -42,9 +42,6 @@
     "grunt-contrib-nodeunit": "~0.3.0",
     "grunt-contrib-watch": "~0.5.3"
   },
-  "peerDependencies": {
-    "grunt": "~0.4.2"
-  },
   "keywords": [
     "CLA",
     "License",
